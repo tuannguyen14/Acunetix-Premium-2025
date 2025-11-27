@@ -1,7 +1,5 @@
-# Acunetix-v25.4.250417124
+# Acunetix-v25.8.250820089
 🛡️ Scripts, API integrations, and learning resources for Acunetix Web Vulnerability Scanner – for ethical hacking and research purposes.
-
-Acunetix v25.4.250417124
 
 > 📚 For educational and ethical security research purposes only.
 
