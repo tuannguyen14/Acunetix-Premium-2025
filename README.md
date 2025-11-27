@@ -1,3 +1,5 @@
+<img width="1918" height="1115" alt="image" src="https://github.com/user-attachments/assets/8e975ab1-9c55-41d0-9846-783977c6824d" />
+
 # Acunetix-v25.8.250820089
 🛡️ Scripts, API integrations, and learning resources for Acunetix Web Vulnerability Scanner – for ethical hacking and research purposes.
 
