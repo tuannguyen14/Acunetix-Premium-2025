@@ -29,11 +29,6 @@ Acunetix is an automated web application security testing tool that detects and 
 - 4GB RAM (8GB+ recommended)
 - 40GB free disk space
 
-### Linux
-- Ubuntu 18.04+ / CentOS 7+ / Debian 9+
-- 4GB RAM (8GB+ recommended)
-- 40GB free disk space
-
 ## 🚀 Installation
 
 ### Windows Installation
