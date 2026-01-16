@@ -1,6 +1,6 @@
 <img width="1918" height="1115" alt="image" src="https://github.com/user-attachments/assets/8e975ab1-9c55-41d0-9846-783977c6824d" />
 
-# Acunetix-v25.8.250820089
+# Acunetix-v25.11.251107123
 # Acunetix Documentation & Resources
  
 Comprehensive documentation and resources for Acunetix Web Vulnerability Scanner - the leading web application security testing tool.
